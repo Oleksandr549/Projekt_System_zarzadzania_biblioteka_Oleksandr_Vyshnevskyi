@@ -1,0 +1,22 @@
+C:\Users\Oleks\Desktop\System zarzadzania biblioteka\System zarzadzania biblioteka\bin\Debug\net8.0\System zarzadzania biblioteka.exe
+C:\Users\Oleks\Desktop\System zarzadzania biblioteka\System zarzadzania biblioteka\bin\Debug\net8.0\System zarzadzania biblioteka.deps.json
+C:\Users\Oleks\Desktop\System zarzadzania biblioteka\System zarzadzania biblioteka\bin\Debug\net8.0\System zarzadzania biblioteka.runtimeconfig.json
+C:\Users\Oleks\Desktop\System zarzadzania biblioteka\System zarzadzania biblioteka\bin\Debug\net8.0\System zarzadzania biblioteka.dll
+C:\Users\Oleks\Desktop\System zarzadzania biblioteka\System zarzadzania biblioteka\bin\Debug\net8.0\System zarzadzania biblioteka.pdb
+C:\Users\Oleks\Desktop\System zarzadzania biblioteka\System zarzadzania biblioteka\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Oleks\Desktop\System zarzadzania biblioteka\System zarzadzania biblioteka\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Oleks\Desktop\System zarzadzania biblioteka\System zarzadzania biblioteka\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Oleks\Desktop\System zarzadzania biblioteka\System zarzadzania biblioteka\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Oleks\Desktop\System zarzadzania biblioteka\System zarzadzania biblioteka\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Oleks\Desktop\System zarzadzania biblioteka\System zarzadzania biblioteka\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Oleks\Desktop\System zarzadzania biblioteka\System zarzadzania biblioteka\obj\Debug\net8.0\System zarzadzania biblioteka.csproj.AssemblyReference.cache
+C:\Users\Oleks\Desktop\System zarzadzania biblioteka\System zarzadzania biblioteka\obj\Debug\net8.0\System zarzadzania biblioteka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oleks\Desktop\System zarzadzania biblioteka\System zarzadzania biblioteka\obj\Debug\net8.0\System zarzadzania biblioteka.AssemblyInfoInputs.cache
+C:\Users\Oleks\Desktop\System zarzadzania biblioteka\System zarzadzania biblioteka\obj\Debug\net8.0\System zarzadzania biblioteka.AssemblyInfo.cs
+C:\Users\Oleks\Desktop\System zarzadzania biblioteka\System zarzadzania biblioteka\obj\Debug\net8.0\System zarzadzania biblioteka.csproj.CoreCompileInputs.cache
+C:\Users\Oleks\Desktop\System zarzadzania biblioteka\System zarzadzania biblioteka\obj\Debug\net8.0\System z.5C876E9D.Up2Date
+C:\Users\Oleks\Desktop\System zarzadzania biblioteka\System zarzadzania biblioteka\obj\Debug\net8.0\System zarzadzania biblioteka.dll
+C:\Users\Oleks\Desktop\System zarzadzania biblioteka\System zarzadzania biblioteka\obj\Debug\net8.0\refint\System zarzadzania biblioteka.dll
+C:\Users\Oleks\Desktop\System zarzadzania biblioteka\System zarzadzania biblioteka\obj\Debug\net8.0\System zarzadzania biblioteka.pdb
+C:\Users\Oleks\Desktop\System zarzadzania biblioteka\System zarzadzania biblioteka\obj\Debug\net8.0\System zarzadzania biblioteka.genruntimeconfig.cache
+C:\Users\Oleks\Desktop\System zarzadzania biblioteka\System zarzadzania biblioteka\obj\Debug\net8.0\ref\System zarzadzania biblioteka.dll
